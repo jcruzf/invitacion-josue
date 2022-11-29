@@ -193,7 +193,7 @@ h6 {
 
 #hero .hero-container {
   position: absolute;
-  top: 60;
+  top: 30;
   left: 0;
   right: 0;
   display: flex;
@@ -219,7 +219,7 @@ h6 {
 
 #hero .hero-container h1 span {
   color: #DF4418;
-  font-size: 100px;
+  font-size: 65px;
   padding-bottom: 30px;
 }
 

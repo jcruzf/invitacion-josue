@@ -219,8 +219,9 @@ h6 {
 
 #hero .hero-container h1 span {
   color: #DF4418;
-  font-size: 95px;
+  font-size: 125px;
   padding-bottom: 30px;
+  letter-spacing: 3px;
 }
 
 @media (max-width: 991px) {
